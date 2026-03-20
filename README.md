@@ -33,7 +33,7 @@ My Software Engineering background means I don't just enter data — I build spr
 |---|---|---|---|---|
 | 01 | [Sales & Revenue Tracker](./projects/01-sales-revenue-tracker/) | Full FY 2024 sales data entry, cleaning, formulas & dashboard | Excel | [Download](./projects/01-sales-revenue-tracker/Sales_Revenue_Tracker_FY2024.xlsx) |
 | 02 | *Coming Soon* | Employee HR Records Management | Excel | — |
-| 03 | [Inventory Management]( | Inventory Management Log | Google Sheets | — |
+| 03 | [Inventory Management](./projects/02-inventory-management/) | Inventory Management Log | Google Sheets | — |
 | 04 | *Coming Soon* | Client Contact Database | Excel | — |
 | 05 | *Coming Soon* | Monthly Expense Report | Excel | — |
 
